@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "XU Mengdie / Personal Homepage"
+title                    : "XU Mengdie‘ Homepage"
 title_separator          : "-"
 name                     : &name "XU Mengdie"
 description              : &description "master student at SEU"
-url                      : https://longlongego.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://longlongego.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Southeast University"
   location         : "China Nanjing"
   employer         : #"Red Brick University"
-  uri              : https://longlongego.github.io
+  uri              : https://longlongego.github.io/
   email            : "mengdiexu53@gmail.com / xmd12319@193.com" 
 
   # Academic websites
