@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "XU Mengdie‘ Homepage"
+title                    : "XU Mengdie' Homepage"
 title_separator          : "-"
-name                     : &name "XU Mengdie"
-description              : &description "master student at SEU"
+name                     : "XU Mengdie"
+description              : "master student at SEU"
 url                      : https://longlongego.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "longlongego/longlongego.github.io"
