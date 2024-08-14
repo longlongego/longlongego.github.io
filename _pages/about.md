@@ -15,9 +15,7 @@ You can find my CV here: [Mengdie Xu's Curriculum Vitae](../assets/CV.pdf).
 
 Selected Publications
 ======
-> - _Irregular extended target tracking with unknown measurement noise covariance_
-> _Mengdie Xu_, Chaoqun Yang, Xiaomeng Cao, Shishan Yang, Xianghui Cao
-> ***Signal Processing*** [url](https://www.sciencedirect.com/science/article/abs/pii/S0165168424002196)
+> - _Irregular extended target tracking with unknown measurement noise covariance_ <br> _Mengdie Xu_, Chaoqun Yang, Xiaomeng Cao, Shishan Yang, Xianghui Cao <br> ***Signal Processing*** [url](https://www.sciencedirect.com/science/article/abs/pii/S0165168424002196)
 
 
 Educations
