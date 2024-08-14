@@ -15,11 +15,11 @@ You can find my CV here: [Mengdie Xu's Curriculum Vitae](../assets/CV.pdf).
 
 Selected Publications
 ======
-_Irregular extended target tracking with unknown measurement noise covariance_ <br> _Mengdie Xu_, Chaoqun Yang, Xiaomeng Cao, Shishan Yang, Xianghui Cao <br> ***Signal Processing*** [url](https://www.sciencedirect.com/science/article/abs/pii/S0165168424002196)
+* _Irregular extended target tracking with unknown measurement noise covariance_ <br> _Mengdie Xu_, Chaoqun Yang, Xiaomeng Cao, Shishan Yang, Xianghui Cao <br> ***Signal Processing*** [url](https://www.sciencedirect.com/science/article/abs/pii/S0165168424002196) *
 
 
 Educations
 ======
-*2022.09 - Present, Master, Automation, Southeast University.*
-*2018.09 - 2022.06, Bachelor, Control Science and Engineering, Shandong University.*
+* 2022.09 - Present, MSc in Automation, Southeast University. *
+* 2018.09 - 2022.06, BE in Control Science and Engineering, Shandong University. *
 
