@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "XU Mengdie' Homepage"
 title_separator          : "-"
 name                     : "XU Mengdie"
-description              : "master student at SEU"
+description              : "Master student at SEU"
 url                      : https://longlongego.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "longlongego/longlongego.github.io"
@@ -23,9 +23,8 @@ author:
   # Biographic information
   avatar           : "me.png"
   name             : "XU Mengdie"
-  bio              : "master student at Southeast University"
+  bio              : "Master student at Southeast University. <br> Contact: <br> mengdiexu53@gmail.com <br> xmd12319@163.com "
   location         : "Nanjing,China"
-  email            : "mengdiexu53@gmail.com" 
   uri              : https://longlongego.github.io/
 
 
