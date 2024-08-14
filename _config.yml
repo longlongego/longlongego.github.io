@@ -23,13 +23,11 @@ author:
   # Biographic information
   avatar           : "me.png"
   name             : "XU Mengdie"
-  pronouns         : # example: "she/her"  
-  bio              : "Southeast University"
-  description      : &description "master student at SEU"
+  bio              : "master student at Southeast University"
   location         : "Nanjing,China"
-  employer         : 
-  uri              : https://longlongego.github.io/
   email            : "mengdiexu53@gmail.com" 
+  uri              : https://longlongego.github.io/
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
