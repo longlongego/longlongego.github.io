@@ -17,9 +17,11 @@ Selected Publications
 ======
 > - _Irregular extended target tracking with unknown measurement noise covariance_
 > _Mengdie Xu_, Chaoqun Yang, Xiaomeng Cao, Shishan Yang, Xianghui Cao
-> - _Signal Processing_ [url](https://www.sciencedirect.com/science/article/abs/pii/S0165168424002196)
+> ***Signal Processing*** [url](https://www.sciencedirect.com/science/article/abs/pii/S0165168424002196)
 
 
-Getting started
+Educations
 ======
+>- 2022.09 - Present, Master, Automation, Southeast University.
+>- 2018.09 - 2022.06, Bachelor, Control Science and Engineering, Shandong University.
 
