@@ -11,7 +11,7 @@ I'm pursuing my master’s degree in Control Science and Engineering at [Southea
 
 You can find my CV here: [Mengdie Xu's Curriculum Vitae](../assets/CV.pdf).
 
-[Email](mailto:mengdiexu53@gmail.com) / [Wecht](../image/wechat.jpg)
+[Email](mailto:mengdiexu53@gmail.com) / [Wecht](../images/wechat.jpg)
 
 Selected Publications
 ======
