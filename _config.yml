@@ -25,9 +25,9 @@ author:
   name             : "XU Mengdie"
   pronouns         : # example: "she/her"  
   bio              : "Southeast University"
-  description      : "master student at SEU"
-  location         : "China Nanjing"
-  employer         : #"Red Brick University"
+  description      : &description "master student at SEU"
+  location         : "Nanjing,China"
+  employer         : 
   uri              : https://longlongego.github.io/
   email            : "mengdiexu53@gmail.com" 
 
