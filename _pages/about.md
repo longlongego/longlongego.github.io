@@ -20,6 +20,6 @@ _Irregular extended target tracking with unknown measurement noise covariance_ <
 
 Educations
 ======
->- 2022.09 - Present, Master, Automation, Southeast University.
->- 2018.09 - 2022.06, Bachelor, Control Science and Engineering, Shandong University.
+*2022.09 - Present, Master, Automation, Southeast University.*
+*2018.09 - 2022.06, Bachelor, Control Science and Engineering, Shandong University.*
 
